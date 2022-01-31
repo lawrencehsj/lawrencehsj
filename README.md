@@ -6,8 +6,8 @@
 <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
 
 ### Connect with me:
-<!-- <i class="fab fa-linkedin-in"></i> -->
-[<img class="fab fa-linkedin-in" align="left" alt="codeSTACKr | LinkedIn" width="22px"/>][linkedin]
+[<i class="fab fa-linkedin-in"></i>][linkedin]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px"/>][linkedin] -->
 
 <br />
 
