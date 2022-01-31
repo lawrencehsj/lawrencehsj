@@ -1,6 +1,9 @@
 # Hello! I'm Lawrence - an aspiring software developer
 ### Currently a Final Year Undergraduate in Computer Science (University of London)
-- 
+
+<link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+<link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
 
 ### Connect with me:
 <i class="fab fa-linkedin-in"></i>
