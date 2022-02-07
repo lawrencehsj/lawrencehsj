@@ -1,17 +1,17 @@
 # Hello! I'm Lawrence - an aspiring software developer
-### Currently a Final Year Undergraduate in Computer Science (University of London)
+Currently a Final Year Undergraduate in Computer Science (University of London). Throughout my undergraduate programme, i have embarked on numerous school projects and stored them in my git repository. I have a keen passion in learning and developing apps, and I am looking to expand and broaden my skillset through different environments.
 
 <!-- <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
 <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
 <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet"> -->
 
-### Connect with me:
+###### Connect with me:
 <!-- [<i class="fab fa-linkedin-in"></i>][linkedin] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <!-- LANGUAGES -->
 <!-- c++ -->
@@ -53,6 +53,8 @@
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
+
+#### Notable Projects:
 
 <!-- URLs -->
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
