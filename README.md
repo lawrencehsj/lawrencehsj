@@ -11,7 +11,7 @@ Currently a Final Year Undergraduate in Computer Science (University of London).
 
 <br />
 
-#### Languages and Tools:
+##### Languages and Tools:
 
 <!-- LANGUAGES -->
 <!-- c++ -->
@@ -55,7 +55,7 @@ Currently a Final Year Undergraduate in Computer Science (University of London).
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 <br></br>
-#### Notable Projects:
+##### Notable Projects:
 
 <!-- URLs -->
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
