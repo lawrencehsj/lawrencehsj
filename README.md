@@ -5,7 +5,7 @@ Currently a Final Year Undergraduate in Computer Science (University of London).
 <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
 <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet"> -->
 
-###### Connect with me:
+##### Connect with me:
 <!-- [<i class="fab fa-linkedin-in"></i>][linkedin] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 
@@ -54,6 +54,7 @@ Currently a Final Year Undergraduate in Computer Science (University of London).
 
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
+<br></br>
 #### Notable Projects:
 
 <!-- URLs -->
