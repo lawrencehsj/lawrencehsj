@@ -22,11 +22,11 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 </p>
 
-##### Connect with me:
+<!-- ##### Connect with me:
 <!-- [<i class="fab fa-linkedin-in"></i>][linkedin] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin] -->
 
-<br />
+<br /> -->
 
 ##### Languages and Tools:
 
