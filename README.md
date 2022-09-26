@@ -1,4 +1,4 @@
-# Hello! I'm Lawrence - an aspiring software developer
+# Hello! I'm Lawrence - **an aspiring software developer**
 Currently a Final Year Undergraduate in Computer Science (University of London). Throughout my undergraduate programme, i have embarked on numerous school projects and stored them in my git repository. I have a keen passion in learning and developing apps, and I am looking to expand and broaden my skillset through different environments.
 
 <!-- <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
