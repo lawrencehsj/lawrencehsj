@@ -10,13 +10,16 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lawrencehsj">
-    <img alt="linkedin profile" title="My linkedin profile" src="https://custom-icon-badges.demolab.com/badge/-Follow%20me!-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
-  <a href="https://github.com/lawrencehsj?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lawrencehsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="linkedin profile" title="My linkedin profile" src="https://custom-icon-badges.demolab.com/badge/Follow%20me!-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
+<!--   <a href="https://github.com/lawrencehsj?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lawrencehsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+  <a href="https://github.com/lawrencehsj?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lawrencehsj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/lawrencehsj/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/lawrencehsj-profile-views"/></a>
+<!--   <a href="https://www.linkedin.com/in/lawrencehsj"> -->
+    <img alt="email" title="Drop me a mail" src="https://custom-icon-badges.demolab.com/badge/lawrencehsj@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+
 </p>
 
 ##### Connect with me:
