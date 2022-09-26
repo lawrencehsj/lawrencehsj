@@ -8,7 +8,8 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
 <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet"> -->
 
-<p align="center">
+<!-- <p align="center"> -->
+<p>
   <a href="https://www.linkedin.com/in/lawrencehsj">
     <img alt="linkedin profile" title="My linkedin profile" src="https://custom-icon-badges.demolab.com/badge/Connect%20with%20me!-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
 <!--   <a href="https://github.com/lawrencehsj?tab=repositories&sort=stargazers">
