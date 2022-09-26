@@ -26,7 +26,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 <!-- [<i class="fab fa-linkedin-in"></i>][linkedin] -->
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin] -->
 
-<br /> -->
+<!-- <br /> -->
 
 ##### Languages and Tools:
 
@@ -58,7 +58,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <!-- flutter -->
   <!-- <img align="left" alt="Git" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /> -->
-
+</p>
 
   <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
   <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -71,7 +71,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
   <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
   <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-</p>
+
 
 <!-- <br></br> -->
 <!-- ##### Notable Projects: -->
