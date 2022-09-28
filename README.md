@@ -77,19 +77,10 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 <!-- <br></br> -->
 <!-- ##### Notable Projects: -->
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+### My stats
+[<i class="fab fa-linkedin-in"></i>][lawrencehsj's GitHub stats]
 
 
 <!-- URLs -->
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
+[![lawrencehsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencehsj)](https://github.com/lawrencehsj/github-readme-stats)
