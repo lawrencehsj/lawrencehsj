@@ -28,7 +28,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin] -->
 
 <!-- <br /> -->
-
+---
 ##### Languages and Tools:
 
 <p align="center">
