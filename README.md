@@ -29,7 +29,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 <!-- <br /> -->
 ---
-##### Languages and Tools:
+### Languages and Tools:
 
 <p align="center">
   <!-- LANGUAGES -->
@@ -76,10 +76,9 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 <!-- <br></br> -->
 <!-- ##### Notable Projects: -->
-
+---
 ### My stats
-[<i class="fab fa-linkedin-in"></i>][lawrencehsj's GitHub stats]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- URLs -->
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
