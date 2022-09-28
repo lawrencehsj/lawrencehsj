@@ -49,7 +49,11 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
   <!-- <img align="left" alt="Git" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /> -->
 </p>
 
-<!-- ##### Notable Projects: -->
+---
+
+### Currently working on:
+* Social media website
+* OpenAI text to image application
 
 <br>
 
