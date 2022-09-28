@@ -75,7 +75,6 @@ I have a keen passion in learning and developing apps, and I am looking to expan
 </div>
 
 ### Check out some of my projects below!
-Notable projects are pinned below, with further descriptions listed in the repo.
 
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
 
