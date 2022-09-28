@@ -57,8 +57,8 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 ### My stats
 <!-- URLs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj)](https://github.com/lawrencehsj/github-readme-stats)
-[![lawrencehsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencehsj)](https://github.com/lawrencehsj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj&layout=compact&theme=dark)](https://github.com/lawrencehsj/github-readme-stats)
+![lawrencehsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencehsj&show_icons=true&theme=dark)
 
 
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
