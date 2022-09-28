@@ -51,7 +51,8 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 
 <!-- ##### Notable Projects: -->
 
-</br>
+<br>
+
 ---
 
 ### My stats
