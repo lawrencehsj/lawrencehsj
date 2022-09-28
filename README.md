@@ -56,7 +56,7 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 * Social media website
 * OpenAI text to image application
 
-<br/>
+<!-- <br/> -->
 
 ---
 
