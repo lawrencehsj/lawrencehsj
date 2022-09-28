@@ -4,31 +4,19 @@
 
 I'm a Final Year Undergraduate in Computer Science (University of London) working towards my ambition to be a software developer. Throughout my undergraduate programme, i have embarked on numerous school projects, and had the opportunity to dabble in various aspects of programming and projects. I have a keen passion in learning and developing apps, and I am looking to expand and broaden my skillset through different environments. Having recently completed my finals, i am currently pursuing job prospects in the field of software and data.
 
-<!-- <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
-<link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
-<link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet"> -->
-
-<!-- <p align="center"> -->
 <p>
   <a href="https://www.linkedin.com/in/lawrencehsj">
     <img alt="linkedin profile" title="My linkedin profile" src="https://custom-icon-badges.demolab.com/badge/Connect%20with%20me!-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
-<!--   <a href="https://github.com/lawrencehsj?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lawrencehsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
   <a href="https://github.com/lawrencehsj?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lawrencehsj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<!--   <a href="https://github.com/denver/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/lawrencehsj-profile-views"/></a> -->
-<!--   <a href="https://www.linkedin.com/in/lawrencehsj"> -->
     <img alt="email" title="Drop me a mail" src="https://custom-icon-badges.demolab.com/badge/lawrencehsj@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
 
 </p>
 
-<!-- ##### Connect with me:
-<!-- [<i class="fab fa-linkedin-in"></i>][linkedin] -->
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin] -->
-
-<!-- <br /> -->
 ---
+
 ### Languages and Tools:
 
 <p align="center">
@@ -61,25 +49,17 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
   <!-- <img align="left" alt="Git" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /> -->
 </p>
 
-  <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
-  <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-
-  <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
-  <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
-
-  <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
-  <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-
-
-<!-- <br></br> -->
 <!-- ##### Notable Projects: -->
+
 ---
+
 ### My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!-- URLs -->
-[linkedin]: https://www.linkedin.com/in/lawrencehsj
 [![lawrencehsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencehsj)](https://github.com/lawrencehsj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj)](https://github.com/lawrencehsj/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/lawrencehsj
+
