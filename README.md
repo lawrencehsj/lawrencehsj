@@ -66,10 +66,10 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 ![lawrencehsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencehsj&show_icons=true&theme=dark) -->
 
 <div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lawrencehsj&show_icons=true&theme=dark" />
+  <img style="height: 10%; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lawrencehsj&show_icons=true&theme=dark" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj&layout=compact&theme=dark" /></div>
+  <img style="height: 10%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj&layout=compact&theme=dark" /></div>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
