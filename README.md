@@ -2,7 +2,9 @@
 
 **`Aspiring software developer`**
 
-I'm a Final Year Undergraduate in Computer Science (University of London) working towards my ambition to be a software developer. Throughout my undergraduate programme, i have embarked on numerous school projects, and had the opportunity to dabble in various aspects of programming and projects. I have a keen passion in learning and developing apps, and I am looking to expand and broaden my skillset through different environments. Having recently completed my finals, i am currently pursuing job prospects in the field of software and data.
+I'm a Final Year Undergraduate in Computer Science (University of London) working towards my ambition to be a software developer. Throughout my undergraduate programme, i have embarked on numerous school projects, and had the opportunity to dabble in various aspects of programming and projects. 
+
+I have a keen passion in learning and developing apps, and I am looking to expand and broaden my skillset through different environments. Having recently completed my finals, i am currently pursuing job prospects in the field of software and data.
 
 <p>
   <a href="https://www.linkedin.com/in/lawrencehsj">
