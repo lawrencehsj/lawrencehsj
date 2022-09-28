@@ -7,10 +7,10 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
 <p>
   <a href="https://www.linkedin.com/in/lawrencehsj">
     <img alt="linkedin profile" title="My linkedin profile" src="https://custom-icon-badges.demolab.com/badge/Connect%20with%20me!-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
-<!--     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lawrencehsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> -->
+<!--     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lawrencehsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
   <a href="https://github.com/lawrencehsj?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lawrencehsj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<!--     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/lawrencehsj-profile-views"/></a> --> -->
+<!--     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/lawrencehsj-profile-views"/></a> -->
     <img alt="email" title="Drop me a mail" src="https://custom-icon-badges.demolab.com/badge/lawrencehsj@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
 
 </p>
@@ -49,13 +49,14 @@ I'm a Final Year Undergraduate in Computer Science (University of London) workin
   <!-- <img align="left" alt="Git" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /> -->
 </p>
 
----
+<!-- --- -->
+<br/>
 
 ### Currently working on:
 * Social media website
 * OpenAI text to image application
 
-<br>
+<br/>
 
 ---
 
