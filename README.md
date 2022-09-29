@@ -13,7 +13,7 @@ I have a keen passion for learning and developing apps, and I am looking to expa
   <a href="https://github.com/lawrencehsj?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lawrencehsj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <!--     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/lawrencehsj-profile-views"/></a> -->
-    <img alt="email" title="Drop me a mail" src="https://custom-icon-badges.demolab.com/badge/lawrencehsj@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+    <img alt="email" title="Drop me a mail" src="https://custom-icon-badges.demolab.com/badge/Email%20Me!-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
 
 </p>
 
