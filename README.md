@@ -2,7 +2,7 @@
 
 **`Aspiring software developer`**
 
-I'm a Final Year Undergraduate in Computer Science (University of London) working towards my ambition to be a software developer. Throughout my undergraduate programme, I had the opportunity to dabble in various aspects of programming and projects. 
+I'm a Final Year Undergraduate in Computer Science (University of London) working towards my ambition to be a software developer. Throughout my undergraduate programme, I had the opportunity to dabble in various aspects of programming and projects such as building REST APIs, developing a mock DJ application, live chatroom, and a fake news detector extension.
 
 I have a keen passion for learning and developing apps, and I am looking to expand and broaden my skillset through different environments. I am looking to pursue a career in the field of software and data.
 
