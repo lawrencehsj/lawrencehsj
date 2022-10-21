@@ -74,7 +74,5 @@ I have a keen passion for learning and developing apps, and I am looking to expa
   <img style="height: 90%; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lawrencehsj&show_icons=true&theme=dark" /></div>
 
 
-### Check out some of my projects below!
-
 [linkedin]: https://www.linkedin.com/in/lawrencehsj
 
