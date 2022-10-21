@@ -54,10 +54,6 @@ I have a keen passion for learning and developing apps, and I am looking to expa
 <!-- --- -->
 <br/>
 
-
-
----
-
 ### My stats
 <!-- URLs -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencehsj&layout=compact&theme=dark)](https://github.com/lawrencehsj/github-readme-stats)
