@@ -54,11 +54,7 @@ I have a keen passion for learning and developing apps, and I am looking to expa
 <!-- --- -->
 <br/>
 
-### Currently working on:
-* Social media website
-* OpenAI text to image application
 
-<!-- <br/> -->
 
 ---
 
